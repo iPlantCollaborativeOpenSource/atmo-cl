@@ -1,4 +1,4 @@
 atmo-cl
 =======
 
-A command line interface for Atmosphere.
+A command line interface for Atmosphere. *Deprecated*
